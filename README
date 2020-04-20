@@ -1,0 +1,65 @@
+This folder contains my work (for the coding portions) of the Coursera
+Specialization "Algorithms" by Stanford. All work is my own and original.
+I have implemented some data structures for learning purposes throughout
+the courses, and have collected them all under the 'data_structures' folder
+in this directory. Similarly, I have implemented various sorting algorithms,
+and have collected them under the folder 'sorting_algos' in this directory.
+All code is correct to the extent that it passes many sample test cases and the
+homework assignment test case. There may be some test cases for some code that
+I have not thought of, so I do not claim it is correct in every instance, and I
+do not claim this code is optimized to run as efficiently as possible (especially
+where I use my own implemented data structures instead of python's built-in
+structures), though I try to make it decently efficient, and well commented.
+Below I list the course names and some material covered in them.
+
+Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms
+    - Basic Probability
+    - Big O/Omega/Theta Notation
+    - Karatsuba Multiplication
+    - Merge Sort (and lower bound for comparison based sorting algos)
+    - Master Method
+    - Strassen Matrix Multiplication
+    - Finding Closest Pairs (2D)
+    - QuickSort (and using randomization to acheive desired average case running time)
+    - i-th Order Statistic Selection - randomized and deterministic
+    - Graphs, Their Representations, Minimum Cuts
+    - Random Contraction Algorithm
+
+Course 2: Graph Search, Shortest Paths, and Data Structures
+    - Breadth First Search/Depth First Search
+    - Shortest Paths/Graph Connectivity/Topological Sort
+    - Strongly Connected Components of Graphs
+    - Dijkstra's Shortest Path
+    - Heaps
+    - Running Median
+    - Binary Search Trees (and how to balance them: red-black trees, rotations)
+    - Hash Tables
+    - Bloom Filters
+    - 2-Sum Problem
+
+Course 3: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
+    - Applications of Greedy Algorithms (internet routing, sequence alignment, optimal caching)
+    - Prim's Minimum Spanning Tree
+    - Kruskal's MST (and analysis with iterated log and inverse ackermann functions)
+    - Union-Find/Disjoint-Set Data Structure (lazy union, rank, path compression)
+    - Clustering (Single-Link Clustering/k-clustering max spacing)
+    - Huffman Encoding Algorithm
+    - Dynamic Programming and Applications
+    - Maximum sum of Weighted Independent Subsets of Path Graphs
+    - Knapsack Problem
+    - Sequence Alignment
+    - Optimal Binary Search Trees
+
+Course 4: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
+    - Bellman-Ford Algorithm
+    - All-Pairs Shortest Paths (n-dijkstra/n-bellman/floyd-warshall/johnson algorithms)
+    - Accounting for Negative Edge Weights and Negative Cycles
+    - NP-Complete Problems, P vs NP
+    - Greedy/DP/Heuristics for solving NP-Complete Problems
+    - Vertex Cover Problem
+    - Traveling Salesman Problem
+    - Greedy/DP Knapsack Heuristics
+    - (Randomized) Local Search Algorithms
+    - Maximum Cut Problem
+    - 2-SAT and 3-SAT Problems (papadimitriou's algorithm/back-tracking/using SCC's)
+    - Beyond: Matching/Flows/Braess' Paradox/ Linear Programming
